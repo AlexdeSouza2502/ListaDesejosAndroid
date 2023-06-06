@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Desejos</string>
+    <string name="mostrar" translatable="false">Mostrar</string>
 </resources>
